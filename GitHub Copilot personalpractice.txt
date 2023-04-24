@@ -1,0 +1,45 @@
+Synthesizing 2/10 solutions
+~, 1/10 solutions
+~, 2/10 solutions
+~.
+=======
+Suggestion 1
+
+    #   │   ├── __init__.py
+    #   │   ├── __pycache__
+    #   │   ├── forms.py
+    #   │   ├── models.py
+    #   │   ├── static
+    #   │   │   ├── css
+    #   │   │   │   ├── bootstrap.min.css
+    #   │   │   │   ├── custom.css
+    #   │   │   │   └── style.css
+    #   │   │   ├── fonts
+    #   │   │   │   ├── neato-webfontz.eot
+    #   │   │   │   ├── neato-webfontz.svg
+    #   │   │   │   ├── neato-webfontz.ttf
+    #   │   │   │   ├── neato-webfontz.woff
+    #   │   │   │   ├── neato-webfontzz.woff2
+    #   │   │   │
+# ctrl + h to highlight all same words
+=======
+Suggestion 2
+
+    #   │   ├── __init__.py
+    #   │   ├── __pycache__
+    #   │   ├── forms.py
+    #   │   ├── models.py
+    #   │   ├── static
+    #   │   │   ├── css
+    #   │   │   │   ├── bootstrap.min.css
+    #   │   │   │   ├── bootstrap.min.css.map
+    #   │   │   │   ├── bootstrap.min.css.map.txt
+    #   │   │   │   ├── bootstrap.min.css.txt
+    #   │   │   │   ├── bootstrap.min.css.txt.map
+    #   │   │   │   ├── bootstrap.min.css.txt.map.txt
+    #   │   │   │   ├── custom.css
+    #   │   │   │   ├── custom.css.map
+    #   │   │   │   ├── custom.css.map.txt
+    #   │   │   │   ├── custom.css.txt
+    #   │   │   │   ├── custom.css.txt.map
+    #   │   │   │   └── custom.css.txt.map.txt
